@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+   background-color: #000;
+    background: url(../assets/lake.jpg);
+    background-size: fill;
+    background-position: center;
+    color: #fff;
+    font: normal  18px Arial, Helvetica, sans-serif;
+
+}
+/*.container{
+  width: 80%;
+  margin: auto;
+}*/
+.logo{
+  align-content: center;
+  padding: 20px 0px;
+
+}
+.box-1 {
+width: 320px;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+
+
+
+
+  position: absolute;
+
+
+
+  background: #333;
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+}
+.box-1 h1{
+  text-align: center;
+}
